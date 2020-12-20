@@ -25,5 +25,8 @@ The general premise of this is that by applying the random maths formula to the 
 The maths logic was an area that I struggled with. With googling I could see a pattern of code used to create the desired function, and whilst I tried to break it down into smaller elements that allowed me to understand the logic of it more completely, I had to admit a little bit of defeat at the end of the day, and use the code without full comprehension, this is an area I will need to come back to ensure better comprehension. 
 
 ## Screenshots <br>
+![image](https://user-images.githubusercontent.com/74820484/102720488-8ff75c00-42ec-11eb-83ac-21626924cc0a.png)
+
 
 ## Deployed code <br>
+The deployed code can be found at [GithubPages]: https://clairemdavies.github.io/week-04-password-generator-homework/ 
